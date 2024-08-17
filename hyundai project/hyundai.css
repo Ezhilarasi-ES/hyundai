@@ -1,0 +1,105 @@
+.navbar-brand{
+    margin-left: 5%;
+}
+.navbar-item{
+    margin-right: 25px;
+    margin-left: 10px;
+    padding: 0cap;
+}
+.navbar-link{
+    text-decoration: none;
+}
+.one{
+    padding: 2px;
+    margin-right: 25px;
+}
+.text1{
+    text-align: center;
+}
+.one2{
+    margin-left:37%;
+}
+.Two{
+    color: black;
+
+}
+.two3{
+    margin-left: 10%;
+}
+.frist{
+ background-color: antiquewhite;   
+}
+.three{
+    margin-left: 30%;
+    padding: 2%;
+    margin-right: 30%;
+}
+.three,button{
+    padding: 2px;
+}
+.slide1{
+    background-color: rgb(214, 210, 210);
+    height: 100px;
+}
+.three1{
+    margin-right: 5px;
+}
+.three2{
+    margin-right: 5px;
+}
+.three3{
+    margin-right: 5px;
+}
+.four{
+    background-color: rgb(45, 45, 109);
+    color: white;
+    height: 120px;
+    padding: 30px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    
+}
+.text{
+    margin-left: 20%;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 12%;
+}
+.container div{
+    padding: 10px;
+}
+.brand1{
+       color: rgb(53, 53, 106);
+}
+.four1{
+    padding: 10px;
+    margin-bottom: 10%;
+    margin-top: 8%;
+}
+.four2{
+    margin-left: 40%;
+    width: 20%;
+    height: 50px;
+    background-color: rgb(38, 38, 86);
+    margin-bottom: 70px;
+    margin-top: -45px;
+}
+.text2{
+    margin-left: 20%;
+
+}
+.four5{
+    background-color: rgb(45, 45, 109);
+    color: white;
+    height: 150px;
+    padding: 50px;
+    margin-top:-45px;
+}
+.five{
+    margin-right: 50%;
+    padding: 2px;
+    margin-left: 5%;
+    background-color: antiquewhite;
+}
